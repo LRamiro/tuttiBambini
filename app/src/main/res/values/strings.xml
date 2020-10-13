@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TuttiBambiniSales</string>
+
+    //Values for CreateProductFragment
+    <string name="product_tv">Producto:</string>
+    <string name="name_tv">Nombre:</string>
+    <string name="description_tv">Descripción:</string>
+    <string name="colors_tv">Colores:</string>
+    <string name="photo_tv">Foto:</string>
+    <string name="save_btn">Guardar</string>
+    <string name="title_tv">Agregar producto.</string>
+
+</resources>
